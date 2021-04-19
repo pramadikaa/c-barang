@@ -1,0 +1,10 @@
+D:\UKK\PramadikaNauvalS_01_XIIRPL4\PramadikaNauvalS_01_XIIRPL4\bin\Debug\PramadikaNauvalS_01_XIIRPL4.exe.config
+D:\UKK\PramadikaNauvalS_01_XIIRPL4\PramadikaNauvalS_01_XIIRPL4\bin\Debug\mydb.accdb
+D:\UKK\PramadikaNauvalS_01_XIIRPL4\PramadikaNauvalS_01_XIIRPL4\bin\Debug\PramadikaNauvalS_01_XIIRPL4.exe
+D:\UKK\PramadikaNauvalS_01_XIIRPL4\PramadikaNauvalS_01_XIIRPL4\bin\Debug\PramadikaNauvalS_01_XIIRPL4.pdb
+D:\UKK\PramadikaNauvalS_01_XIIRPL4\PramadikaNauvalS_01_XIIRPL4\obj\Debug\PramadikaNauvalS_01_XIIRPL4.csprojResolveAssemblyReference.cache
+D:\UKK\PramadikaNauvalS_01_XIIRPL4\PramadikaNauvalS_01_XIIRPL4\obj\Debug\PramadikaNauvalS_01_XIIRPL4.Form1.resources
+D:\UKK\PramadikaNauvalS_01_XIIRPL4\PramadikaNauvalS_01_XIIRPL4\obj\Debug\PramadikaNauvalS_01_XIIRPL4.Properties.Resources.resources
+D:\UKK\PramadikaNauvalS_01_XIIRPL4\PramadikaNauvalS_01_XIIRPL4\obj\Debug\PramadikaNauvalS_01_XIIRPL4.csproj.GenerateResource.Cache
+D:\UKK\PramadikaNauvalS_01_XIIRPL4\PramadikaNauvalS_01_XIIRPL4\obj\Debug\PramadikaNauvalS_01_XIIRPL4.exe
+D:\UKK\PramadikaNauvalS_01_XIIRPL4\PramadikaNauvalS_01_XIIRPL4\obj\Debug\PramadikaNauvalS_01_XIIRPL4.pdb
